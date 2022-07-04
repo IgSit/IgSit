@@ -43,7 +43,7 @@
 <div align="center">
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  alt=""/>
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  alt=""/>
+    <img style="width: 60px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"/>    
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  alt=""/>
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  alt=""/>
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt=""/>
