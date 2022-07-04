@@ -1,6 +1,7 @@
 <h1 align="center" style="color: #9b9e9d">Hi, I'm Igor 👋</h1>
 
 <h2 align="center" style="color: #9b9e9d">👨‍💻 About me:</h2>
+
 - 👨‍🎓 **Computer Science** student at **AGH University of Science and Technology**,
 - 💻 **software developer** intern at **u2i**
 - 📫 contact me: **sigors100@gmail.com**
