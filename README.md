@@ -3,7 +3,7 @@
 <h2 align="center" style="color: #9b9e9d">👨‍💻 About me:</h2>
 
 - 👨‍🎓 **Computer Science** student at **AGH University of Science and Technology**
-- 💻 **software developer** intern at **u2i**
+- 💻 **Software Developer** intern at **u2i**
 - 📫 contact me: **sigors100@gmail.com**
 
 
@@ -21,25 +21,36 @@
   <img style="min-width: 420px;" alt="Igor Sitek's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgSit&layout=compact&hide=Jupyter%20Notebook&langs_count=8&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb&card_width=325"/>
   <h6><i>All Jupyter Notebook files excluded from above.</i></h6>
 </div>
-<br>
-<h2 align="center" style="color: #9b9e9d">📖 Languages I have worked with:</h2>
-<br>
+<h2 align="center" style="color: #9b9e9d"> 💻 Work-experienced stack:</h2>
+<h4 align="center" style="color: #868787"> Languages </h4>
+<div align="center">
+    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"  alt=""/>
+    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  alt=""/>
+    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  alt=""/>
+    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt=""/>
+    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  alt=""/>
+</div>
+<h4 align="center" style="color: #868787"> Technologies & frameworks </h4>
+<div align="center">
+    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"  alt=""/>
+    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  alt=""/>
+    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  alt=""/>
+    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"  alt=""/>
+    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  alt=""/>
+    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  alt=""/>
+</div>
+<h2 align="center" style="color: #9b9e9d">📖 Private and educational stack:</h2>
+<h4 align="center" style="color: #868787"> Languages </h4>
 <div align="center">
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt=""/>
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  alt=""/>
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt=""/>
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  alt=""/>
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  alt=""/>
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"  alt=""/>
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg"  alt=""/>
 </div>
-
-<h2 align="center" style="color: #9b9e9d">🛠️ Technologies I have worked with:</h2>
-<br>
+<h4 align="center" style="color: #868787"> Technologies & frameworks </h4>
 <div align="center">
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  alt=""/>
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  alt=""/>
@@ -47,7 +58,6 @@
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  alt=""/>
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  alt=""/>
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  alt=""/>
     <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  alt=""/>
 </div>
 <br><br>
