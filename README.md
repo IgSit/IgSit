@@ -3,7 +3,7 @@
 <h2 align="center" style="color: #9b9e9d">👨‍💻 About me:</h2>
 
 - 👨‍🎓 **Computer Science** student at **AGH University of Science and Technology**
-- 💻 **Software Developer** intern at **u2i**
+- 💻 **Software Developer** at **AGH UST**
 - 📫 contact me: **sigors100@gmail.com**
 
 
