@@ -1,8 +1,14 @@
 <h1 align="center" style="color: #9b9e9d">Hi, I'm Igor 👋</h1>
+<i><b>Note:</b> I am currently working with a privately-hosted Bitbucket Server, so my recent commits and contributions are not publicly available.</i>
 
 <h2 align="center" style="color: #9b9e9d">👨‍💻 About me:</h2>
 
-- 👨‍🎓 **Computer Science** student at **AGH University of Science and Technology**
+Software Developer with a strong background in designing and implementing both web and desktop applications, with a primary focus on backend development and tool integration.
+Experienced in building scalable, maintainable systems and passionate about architecture, system design, and clean code principles. 
+Committed to delivering high-quality products through effective team collaboration, continuous improvement, and thoughtful technical leadership.
+
+
+- 👨‍🎓 Master's **Computer Science** student at **AGH University of Science and Technology**
 - 💻 **Software Developer** at **AGH UST**
 - 📫 contact me: **sigors100@gmail.com**
 
@@ -19,46 +25,46 @@
 <br>
 <div style="margin: 0 auto; width: fit-content" align="center">
   <img style="min-width: 420px;" alt="Igor Sitek's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgSit&layout=compact&hide=Jupyter%20Notebook&langs_count=8&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb&card_width=325"/>
-  <h6><i>All Jupyter Notebook files excluded from above.</i></h6>
 </div>
-<h2 align="center" style="color: #9b9e9d"> 💻 Work-experienced stack:</h2>
-<h4 align="center" style="color: #868787"> Languages </h4>
-<div align="center">
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  alt=""/>
+<h2 align="left" style="color: #9b9e9d"> 💻 Work-experienced stack:</h2>
+<h4 align="left" style="color: #868787"> Languages </h4>
+<div align="left">
+    <ul>
+        <li>Java</li>
+        <li>Ruby</li>
+        <li>Bash</li>
+        <li>HTML/CSS + JS/TS</li>
+    </ul>
 </div>
-<h4 align="center" style="color: #868787"> Technologies & frameworks </h4>
-<div align="center">
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  alt=""/>
+<h4 align="left" style="color: #868787"> Technologies & frameworks </h4>
+<div align="left">
+    <ul>
+        <li>SpringBoot + Hibernate + JPA</li>
+        <li>PostgreSQL + MySQL</li>
+        <li>RxJava + Java Stream API</li>
+        <li>JavaFX</li>
+        <li>Kafka</li>
+        <li>Docker + Linux</li>
+        <li>Ruby on Rails</li>
+        <li>Git</li>
+        <li>AWS</li>
+    </ul>
 </div>
-<h2 align="center" style="color: #9b9e9d">📖 Private and educational stack:</h2>
-<h4 align="center" style="color: #868787"> Languages </h4>
-<div align="center">
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg"  alt=""/>
+<h2 align="left" style="color: #9b9e9d">📖 Private and educational stack:</h2>
+<h4 align="left" style="color: #868787"> Languages </h4>
+<div align="left">
+    <ul>
+        <li>Python</li>
+        <li>C/CPP</li>
+    </ul>
 </div>
-<h4 align="center" style="color: #868787"> Technologies & frameworks </h4>
-<div align="center">
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  alt=""/>
-    <img style="width: 60px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql"/>    
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt=""/>
-    <img style="width: 60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  alt=""/>
+<h4 align="left" style="color: #868787"> Technologies & frameworks </h4>
+<div align="left">
+    <ul>
+        <li>FastAPI + Django</li>
+        <li>Angular + React + Flutter</li>
+        <li>Neo4j + MongoDB</li>
+    </ul>
 </div>
 <br><br>
                 
