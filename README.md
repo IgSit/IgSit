@@ -64,6 +64,8 @@ Committed to delivering high-quality products through effective team collaborati
         <li>FastAPI + Django</li>
         <li>Angular + React + Flutter</li>
         <li>Neo4j + MongoDB</li>
+        <li>Spark</li>
+        <li>Jupyter Notebook</li>
     </ul>
 </div>
 <br><br>
